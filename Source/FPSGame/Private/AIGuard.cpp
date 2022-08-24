@@ -3,7 +3,7 @@
 
 #include "AIGuard.h"
 #include "Perception/PawnSensingComponent.h"
-#include "DrawDebugHelpers.h"
+//#include "DrawDebugHelpers.h"
 #include "FPSGameMode.h"
 
 // Sets default values
